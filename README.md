@@ -1,4 +1,5 @@
-# Learn Git with URGDSC
+# Learn Git with [URGDSC](https://urgdsc.com)
+
 
 This is a repository to apply what you have learn abou the git.
 
@@ -13,3 +14,4 @@ We will approve the merge request periodically.
 
 - Yazdan Ranjbar ([yazdanra](https://github.com/yazdanra))
 - Satyam ([Satyam](https://github.com/KlausMikhaelson))
+- Eberechi ([bere](https://github.com/beretests))
