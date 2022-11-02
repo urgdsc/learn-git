@@ -13,4 +13,5 @@ We will approve the merge request periodically.
 # Here You Are!
 
 - Yazdan Ranjbar ([yazdanra](https://github.com/yazdanra))
+- Satyam ([Satyam](https://github.com/KlausMikhaelson))
 - Eberechi ([bere](https://github.com/beretests))
